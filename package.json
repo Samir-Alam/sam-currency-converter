@@ -12,7 +12,10 @@
     "url": "git+https://github.com/Samir-Alam/sam-currency-converter.git"
   },
   "keywords": [
-    "npm"
+    "npm",
+    "conversion",
+    "currency",
+    "node"
   ],
   "author": "Samir",
   "license": "Apache-2.0",
