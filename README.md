@@ -29,3 +29,7 @@ convertCurrency(fromCurrency, toCurrency, numberOfUnits).then(res=>console.log(r
 ## 🧑‍🎓 License
 
 sam-currency-converter is Apache licensed.
+
+## ☎️ Contact
+
+[LINKEDIN](https://www.linkedin.com/in/samir-webdeveloper/)
