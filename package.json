@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "An npm package for currency conversion",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "npm run test"
   },
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Samir-Alam/sam-currency-converter/issues"
   },
-  "homepage": "https://github.com/Samir-Alam/sam-currency-converter#readme"
+  "homepage": "https://github.com/Samir-Alam/sam-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
 }
