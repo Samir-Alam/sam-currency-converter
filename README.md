@@ -2,11 +2,9 @@
 
 An npm package to convert currencies
 
-<hr>
+## Getting Started
 
-# Getting Started
-
-## 🐇 Installation
+### 🐇 Installation
 
 Install sam-currency-converter with via your package manager:
 
@@ -26,10 +24,14 @@ const numberOfUnits = 5;    // Number of units to be converted
 convertCurrency(fromCurrency, toCurrency, numberOfUnits).then(res=>console.log(res));
 ```
 
-## 🧑‍🎓 License
+### 🧑‍🎓 License
 
 sam-currency-converter is Apache licensed.
 
-## ☎️ Contact
+### ☎️ Contact
 
 [LINKEDIN](https://www.linkedin.com/in/samir-webdeveloper/)
+
+```md
+Don't forget to give a star to this repo if you liked it
+```
